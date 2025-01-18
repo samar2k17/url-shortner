@@ -9,6 +9,6 @@ URL Shortener in Go 🚀 A lightweight and efficient URL shortener service built
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/url-shortner.git
+   git clone https://github.com/samar2k17/url-shortner.git
    cd url-shortner
 2. docker-compose up
